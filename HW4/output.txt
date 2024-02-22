@@ -1,0 +1,122 @@
+Magic square  for n = 3 sum = 15
+    6     1     8 
+    7     5     3 
+    2     9     4 
+------------------------
+Magic square  for n = 5 sum = 65
+   15     8     1    24    17 
+   16    14     7     5    23 
+   22    20    13     6     4 
+    3    21    19    12    10 
+    9     2    25    18    11 
+------------------------
+Magic square  for n = 7 sum = 175
+   28    19    10     1    48    39    30 
+   29    27    18     9     7    47    38 
+   37    35    26    17     8     6    46 
+   45    36    34    25    16    14     5 
+    4    44    42    33    24    15    13 
+   12     3    43    41    32    23    21 
+   20    11     2    49    40    31    22 
+------------------------
+Magic square  for n = 9 sum = 369
+   45    34    23    12     1    80    69    58    47 
+   46    44    33    22    11     9    79    68    57 
+   56    54    43    32    21    10     8    78    67 
+   66    55    53    42    31    20    18     7    77 
+   76    65    63    52    41    30    19    17     6 
+    5    75    64    62    51    40    29    27    16 
+   15     4    74    72    61    50    39    28    26 
+   25    14     3    73    71    60    49    38    36 
+   35    24    13     2    81    70    59    48    37 
+------------------------
+Magic square  for n = 11 sum = 671
+------------------------
+Magic square  for n = 13 sum = 1105
+------------------------
+Magic square  for n = 15 sum = 1695
+------------------------
+Magic square  for n = 17 sum = 2465
+------------------------
+Magic square  for n = 19 sum = 3439
+------------------------
+Magic square  for n = 21 sum = 4641
+------------------------
+Magic square  for n = 23 sum = 6095
+------------------------
+Magic square  for n = 25 sum = 7825
+------------------------
+Magic square  for n = 27 sum = 9855
+------------------------
+Magic square  for n = 29 sum = 12209
+------------------------
+Magic square  for n = 31 sum = 14911
+------------------------
+Magic square  for n = 33 sum = 17985
+------------------------
+Magic square  for n = 35 sum = 21455
+------------------------
+Magic square  for n = 37 sum = 25345
+------------------------
+Magic square  for n = 39 sum = 29679
+------------------------
+Magic square  for n = 41 sum = 34481
+------------------------
+Magic square  for n = 43 sum = 39775
+------------------------
+Magic square  for n = 45 sum = 45585
+------------------------
+Magic square  for n = 47 sum = 51935
+------------------------
+Magic square  for n = 49 sum = 58849
+------------------------
+Magic square  for n = 51 sum = 66351
+------------------------
+Magic square  for n = 53 sum = 74465
+------------------------
+Magic square  for n = 55 sum = 83215
+------------------------
+Magic square  for n = 57 sum = 92625
+------------------------
+Magic square  for n = 59 sum = 102719
+------------------------
+Magic square  for n = 61 sum = 113521
+------------------------
+Magic square  for n = 63 sum = 125055
+------------------------
+Magic square  for n = 65 sum = 137345
+------------------------
+Magic square  for n = 67 sum = 150415
+------------------------
+Magic square  for n = 69 sum = 164289
+------------------------
+Magic square  for n = 71 sum = 178991
+------------------------
+Magic square  for n = 73 sum = 194545
+------------------------
+Magic square  for n = 75 sum = 210975
+------------------------
+Magic square  for n = 77 sum = 228305
+------------------------
+Magic square  for n = 79 sum = 246559
+------------------------
+Magic square  for n = 81 sum = 265761
+------------------------
+Magic square  for n = 83 sum = 285935
+------------------------
+Magic square  for n = 85 sum = 307105
+------------------------
+Magic square  for n = 87 sum = 329295
+------------------------
+Magic square  for n = 89 sum = 352529
+------------------------
+Magic square  for n = 91 sum = 376831
+------------------------
+Magic square  for n = 93 sum = 402225
+------------------------
+Magic square  for n = 95 sum = 428735
+------------------------
+Magic square  for n = 97 sum = 456385
+------------------------
+Magic square  for n = 99 sum = 485199
+------------------------
